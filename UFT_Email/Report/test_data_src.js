@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'E:\\UFT_GIT\\Git_UFTOrders\\UFT_Orders\\SendEmail',namePairs:[]}]};

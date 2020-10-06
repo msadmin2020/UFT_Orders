@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "SingleOrder", "D:\Dileep\UFT_Orders\SingleOrder\Test.tsp", "A9335E1D-052E-4EFB-B490-084E90F88A0B"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = D:\Dileep\UFT_Orders\SingleOrder\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "TC_MultipleOrder", "D:\Dileep\UFT_Orders\TC_MultipleOrder\Test.tsp", "764AFB74-8274-4463-88FC-A7132F7967A8"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = D:\Dileep\UFT_Orders\TC_MultipleOrder\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "UFT_Email", "D:\Dileep\UFT_Orders\UFT_Email\Test.tsp", "A630A633-55B3-43A1-9A70-842A65E37846"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = D:\Dileep\UFT_Orders\UFT_Email\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		A9335E1D-052E-4EFB-B490-084E90F88A0B.Debug|Any CPU.Build.0 = Debug|Any CPU
+		A9335E1D-052E-4EFB-B490-084E90F88A0B.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		A9335E1D-052E-4EFB-B490-084E90F88A0B.Release|Any CPU.Build.0 = Release|Any CPU
+		A9335E1D-052E-4EFB-B490-084E90F88A0B.Release|Any CPU.ActiveCfg = Release|Any CPU
+		764AFB74-8274-4463-88FC-A7132F7967A8.Debug|Any CPU.Build.0 = Debug|Any CPU
+		764AFB74-8274-4463-88FC-A7132F7967A8.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		764AFB74-8274-4463-88FC-A7132F7967A8.Release|Any CPU.Build.0 = Release|Any CPU
+		764AFB74-8274-4463-88FC-A7132F7967A8.Release|Any CPU.ActiveCfg = Release|Any CPU
+		A630A633-55B3-43A1-9A70-842A65E37846.Debug|Any CPU.Build.0 = Debug|Any CPU
+		A630A633-55B3-43A1-9A70-842A65E37846.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		A630A633-55B3-43A1-9A70-842A65E37846.Release|Any CPU.Build.0 = Release|Any CPU
+		A630A633-55B3-43A1-9A70-842A65E37846.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		InfoDetails = C:\Users\msadmin\Desktop\Dileep\InfoDetails.qfl
+	EndGlobalSection
+EndGlobal
